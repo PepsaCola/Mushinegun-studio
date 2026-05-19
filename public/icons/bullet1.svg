@@ -1,0 +1,15 @@
+<svg width="450" height="74" viewBox="0 0 450 74" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0 5.53424V69.0133H5.05622L16.6847 74H207.001L235 64.2383V10.1956L207.001 0H16.6847L4.94364 5.53424H0Z" fill="url(#pattern0_2_3193)"/>
+<path d="M0 5.53424V69.0133H5.05622L16.6847 74H207.001L235 64.2383V10.1956L207.001 0H16.6847L4.94364 5.53424H0Z" fill="url(#paint0_linear_2_3193)"/>
+<path d="M449.942 36.0826C449.942 15.6519 305.803 10.9595 234.942 10.2031V64.2332C340.615 69.6816 449.942 51.0663 449.942 36.0826Z" fill="#1A1A1E"/>
+<defs>
+<pattern id="pattern0_2_3193" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_2_3193" transform="matrix(0.000260417 0 0 0.000826999 0 -0.393159)"/>
+</pattern>
+<linearGradient id="paint0_linear_2_3193" x1="0" y1="37" x2="223.379" y2="37" gradientUnits="userSpaceOnUse">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="#1A1A1E"/>
+</linearGradient>
+<image id="image0_2_3193" width="3840" height="2160" preserveAspectRatio="none" xlink:href="data:image/png;base64,"/>
+</defs>
+</svg>

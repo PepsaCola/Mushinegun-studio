@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+    --font-family-sans: "Fustat", ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+    body {
+        font-family: "Fustat", sans-serif;
+        background-color: #26292F;
+    }
+
+    p, a, span {
+        @apply text-white;
+        @apply leading-tight;
+    }
+
+    button{
+        @apply cursor-pointer;
+    }
+}
